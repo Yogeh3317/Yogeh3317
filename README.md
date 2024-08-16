@@ -1,7 +1,8 @@
 <h3 align="center">A passionate frontend developer from India</h3>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alt="Welcome Animation">
+<p align="center" style="margin-top: 20px; margin-bottom: 20px;">
+  <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alt="Welcome Animation" height="250px" style="border-radius: 15px;">
 </p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogeh3317&label=Profile%20views&color=0e75b6&style=flat" alt="yogeh3317" /> </p>
 
