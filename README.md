@@ -1,5 +1,5 @@
 <h3 align="center">A passionate frontend developer from India</h3>
-<p align="center" style="margin-top: 20px; margin-bottom: 20px;">
+<p align="center" style="margin-top: 50px; margin-bottom: 50px;">
   <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alt="Welcome Animation" height="250px" style="border-radius: 15px;">
 </p>
 
